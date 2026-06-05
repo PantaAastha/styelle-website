@@ -41,7 +41,7 @@ export default function TermsOfService() {
             <h2 className="text-2xl font-medium text-foreground mb-4">Contact</h2>
             <p>
               For any questions regarding these Terms, please contact us at:<br />
-              <a href="mailto:hello@styelle.style" className="text-accent hover:underline">hello@styelle.style</a>
+              <a href="mailto:freesiamoss@gmail.com" className="text-accent hover:underline">freesiamoss@gmail.com</a>
             </p>
           </section>
         </div>

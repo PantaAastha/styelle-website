@@ -17,8 +17,8 @@ export default function Footer() {
           <Link href="/terms" className="hover:text-accent transition-colors">
             Terms
           </Link>
-          <a href="mailto:hello@styelle.style" className="hover:text-accent transition-colors">
-            hello@styelle.style
+          <a href="mailto:freesiamoss@gmail.com" className="hover:text-accent transition-colors">
+            freesiamoss@gmail.com
           </a>
         </div>
       </div>

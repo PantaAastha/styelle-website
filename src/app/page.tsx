@@ -109,8 +109,8 @@ export default function Home() {
             <p className="text-foreground/70">
               For partnership, privacy, and app access questions, please reach out to us.
             </p>
-            <a href="mailto:hello@styelle.style" className="inline-block text-2xl font-medium text-accent hover:opacity-80 transition-opacity">
-              hello@styelle.style
+            <a href="mailto:freesiamoss@gmail.com" className="inline-block text-2xl font-medium text-accent hover:opacity-80 transition-opacity">
+              freesiamoss@gmail.com
             </a>
           </div>
         </div>

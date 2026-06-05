@@ -78,7 +78,7 @@ export default function PrivacyPolicy() {
             <h2 className="text-2xl font-medium text-foreground mb-4">Contact Us</h2>
             <p>
               If you have any questions about this Privacy Policy, please contact us at:<br />
-              <a href="mailto:hello@styelle.style" className="text-accent hover:underline">hello@styelle.style</a>
+              <a href="mailto:freesiamoss@gmail.com" className="text-accent hover:underline">freesiamoss@gmail.com</a>
             </p>
           </section>
         </div>
