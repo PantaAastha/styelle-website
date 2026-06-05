@@ -40,9 +40,6 @@ jobs:
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
-        with:
-          # Automatically inject basePath in Next.js config
-          static_site_generator: next
 
       - name: Install dependencies
         run: npm ci
