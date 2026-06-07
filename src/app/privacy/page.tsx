@@ -9,14 +9,16 @@ export default function PrivacyPolicy() {
     <Section className="py-24">
       <div className="max-w-3xl mx-auto prose prose-neutral">
         <h1 className="text-4xl font-medium mb-8">Privacy Policy</h1>
-        <p className="text-foreground/60 mb-12">Last Updated: June 5, 2026</p>
+        <p className="text-foreground/60 mb-12">Last Updated: June 7, 2026</p>
 
         <div className="space-y-8 text-foreground/80 leading-relaxed">
           <section>
             <h2 className="text-2xl font-medium text-foreground mb-4">Who We Are</h2>
             <p>
-              Styelle / StyledTogether ("we," "us," or "our") is a fashion discovery and styling platform. 
-              We operate the website located at styelle.style and related services.
+              Styelle / StyledTogether (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) is an early-stage fashion discovery and styling platform focused on coordinated outfit inspiration for real-life moments.
+              For development and testing, we currently operate this website at:
+              https://styellestyle-website.vercel.app.
+              In the future, we may move the website to a custom domain such as styelle.style or another official Styelle domain.
             </p>
           </section>
 
@@ -53,7 +55,7 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-2xl font-medium text-foreground mb-4">Data Storage and Security</h2>
             <p>
-              Tokens and credentials, if used, are stored securely and are not exposed publicly. 
+              Tokens and credentials, if used, are stored securely and are not exposed publicly.
               Development data may be used internally for testing, quality assurance, and product improvement.
             </p>
           </section>
@@ -61,7 +63,7 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-2xl font-medium text-foreground mb-4">Data Sharing</h2>
             <p>
-              We do not sell personal data to third parties. We may use trusted service providers 
+              We do not sell personal data to third parties. We may use trusted service providers
               (such as hosting providers, email services, and developer tools) to operate our website and services.
             </p>
           </section>
@@ -69,7 +71,7 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-2xl font-medium text-foreground mb-4">Data Deletion</h2>
             <p>
-              Users can request the deletion of their personal information or integration-related data 
+              Users can request the deletion of their personal information or integration-related data
               by contacting us directly.
             </p>
           </section>
