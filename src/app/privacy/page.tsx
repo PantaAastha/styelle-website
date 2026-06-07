@@ -16,8 +16,7 @@ export default function PrivacyPolicy() {
             <h2 className="text-2xl font-medium text-foreground mb-4">Who We Are</h2>
             <p>
               Styelle / StyledTogether (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) is an early-stage fashion discovery and styling platform focused on coordinated outfit inspiration for real-life moments.
-              For development and testing, we currently operate this website at:
-              https://styellestyle-website.vercel.app.
+              For development and testing, we currently operate this website at the URL you are visiting.
               In the future, we may move the website to a custom domain such as styelle.style or another official Styelle domain.
             </p>
           </section>
